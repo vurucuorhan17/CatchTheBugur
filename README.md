@@ -1,2 +1,3 @@
 # CatchTheBugur
-Escaping Chase Dear bugur jdklsajdkla
+Simple Catch the Character Game in limited time.
+Escaping Chase :D
